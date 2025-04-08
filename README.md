@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Divyanshi (aka ADHIINSVY)</h1>
-<h3 align="center">A quirky developer from India who’s growing with the Web and Open Source Community ✨</h3>
+<h1 align="center">Hi 👋, I'm Divyanshi Sahu (aka ADHIINSVY)</h1>
+<h3 align="center">A developer from India who’s growing with the Web and Open Source Community ✨</h3>
 
 ---
 
@@ -33,7 +33,6 @@ Also... I **overthink a lot** — but I turn that into supercharged imagination 
 
 ✨ Thanks for visiting my space! Let's build something awesome 💖
 
-- 
 <!---
 ADHIINSVY13/ADHIINSVY13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
