@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshi (aka ADHIINSVY)</h1>
-<h3 align="center">A developer from India who’s growing with the Web and Open Source Community ✨</h3>
+<h3 align="center">A Bossy Wossy developer from India </h3>
 
 ---
 
