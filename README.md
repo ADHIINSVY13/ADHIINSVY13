@@ -13,29 +13,29 @@
 I’m **quirky**, love writing 🖋️, exploring new languages 🌍, and I have a knack for making strangers feel like old friends!
 
 ---
+📚 Ask Me About
 
-📚 Ask me about:
+💻 Web Development
 
-Web Development
+HTML, CSS, JavaScript, TypeScript
 
--HTML, CSS, JavaScript, TypeScript
+React (Tailwind, shadcn/ui, Framer Motion)
 
--React (with Tailwind, shadcn/ui, Framer Motion)
+Project deployment (GitHub Pages)
 
--Deploying projects on GitHub Pages
+🐍 Python
 
-Python Programming
+Flask (Web Apps)
 
--Flask (for web apps)
+NumPy & pandas (Data Analysis)
 
--NumPy & pandas (for data analysis)
+🔧 Version Control
 
-Version Control
+Git & GitHub (commits, pushes, README)
 
--Git & GitHub (commits, pushes, README updates)
+🗣 Communication
 
-How to talk to strangers without being weird 😅
-
+How to talk to strangers without being awkward 😅
 ---
 
 <!-- CONTACT SECTION -->
