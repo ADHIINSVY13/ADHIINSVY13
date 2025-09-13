@@ -15,23 +15,21 @@ I’m **quirky**, love writing 🖋️, exploring new languages 🌍, and I have
 ---
 📚 Ask Me About
 
-💻 Web Development
+**💻 Web Development**  
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+![CSS](https://img.shields.io/badge/Code-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6)
+![React](https://img.shields.io/badge/Framework-React-61DAFB)
 
-HTML, CSS, JavaScript, TypeScript
+**🐍 Python**  
+![Flask](https://img.shields.io/badge/Framework-Flask-black)
+![NumPy](https://img.shields.io/badge/Library-NumPy-013243)
+![pandas](https://img.shields.io/badge/Library-pandas-150458)
 
-React (Tailwind, shadcn/ui, Framer Motion)
-
-Project deployment (GitHub Pages)
-
-🐍 Python
-
-Flask (Web Apps)
-
-NumPy & pandas (Data Analysis)
-
-🔧 Version Control
-
-Git & GitHub (commits, pushes, README)
+**🔧 Version Control**  
+![Git](https://img.shields.io/badge/Tool-Git-F05032)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-181717)
 
 🗣 Communication
 
