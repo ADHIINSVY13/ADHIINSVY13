@@ -7,7 +7,7 @@
 
 🌱 I’m currently diving deep into **Data Structures and Algorithms (DSA)**
 
-🤝 I’m looking to collaborate on **any kind of coding project**, especially **web dev** and open source contributions.
+🤝Open to collaborating on web development projects
 
 🧠 Fun fact:  
 I’m **quirky**, love writing 🖋️, exploring new languages 🌍, and I have a knack for making strangers feel like old friends!
