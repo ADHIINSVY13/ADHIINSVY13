@@ -16,10 +16,25 @@ I’m **quirky**, love writing 🖋️, exploring new languages 🌍, and I have
 
 📚 Ask me about:
 
-- Web Dev (HTML, CSS, JS)
-- Python (Flask, Numpy , Pandas)
-- Fun projects to start as a beginner
-- How to talk to strangers without being weird 😅
+Web Development
+
+-HTML, CSS, JavaScript, TypeScript
+
+-React (with Tailwind, shadcn/ui, Framer Motion)
+
+-Deploying projects on GitHub Pages
+
+Python Programming
+
+-Flask (for web apps)
+
+-NumPy & pandas (for data analysis)
+
+Version Control
+
+-Git & GitHub (commits, pushes, README updates)
+
+How to talk to strangers without being weird 😅
 
 ---
 
