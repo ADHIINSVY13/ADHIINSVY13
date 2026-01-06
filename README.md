@@ -1,6 +1,7 @@
-<h1 align="center">
+<h1 align="center" style="margin: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi👋%20I'm%20Divyanshi&fontSize=40&fontAlignY=35" />
 </h1>
+
 <h2 align="center"> 🎯 A learner, building from India. </h2>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVpMnJhNHR1djVpeWkzbmRrM3lkeG92OGZ2MHNsaW1xa3djOWozZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -57,7 +58,6 @@ I have a knack for making strangers feel like old friends!
 📫 **Reach me via**:
 - **LinkedIn**-[adhiinsvy13](https://www.linkedin.com/in/adhiinsvy13)
 - **Mail**-divyanshisahu496@gmail.com
-
 
 ---
 ✨ Thanks for stopping by!  
