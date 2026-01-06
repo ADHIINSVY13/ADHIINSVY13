@@ -1,50 +1,64 @@
-<h1 align="center">Hi 👋, I'm Divyanshi (aka ADHIINSVY)</h1>
-<h3 align="center">A developer from India </h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi👋%20I'm%20Divyanshi&fontSize=40&fontAlignY=35" />
+</h1>
+<h2 align="center"> 🎯 A learner, building from India. </h2>
 
----
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVpMnJhNHR1djVpeWkzbmRrM3lkeG92OGZ2MHNsaW1xa3djOWozZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+**🔍Getting to Know Me**
+<p>I notice patterns before they’re obvious. I build for the web, learn languages—technical and spoken—and document ideas to turn complexity into clarity.</p>
 
 💻 I'm passionate about **Web Development**.
 
-🌱 I’m currently diving deep into **Data Structures and Algorithms (DSA)**
+🌱 Currently exploring **Machine Learning**.
 
-🤝Open to collaborating on web development projects
+🤝 Always open to building meaningful things together.
 
 🧠 Fun fact:  
-I’m **quirky**, love writing 🖋️, exploring new languages 🌍, and I have a knack for making strangers feel like old friends!
+I have a knack for making strangers feel like old friends!
 
 ---
-📚 Ask Me About
+ 📚 **My Tech Stack**
 
-**💻 Web Development**  
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![CSS](https://img.shields.io/badge/Code-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6)
-![React](https://img.shields.io/badge/Framework-React-61DAFB)
+<p align="left">
 
-**🐍 Python**  
-![Flask](https://img.shields.io/badge/Framework-Flask-black)
-![NumPy](https://img.shields.io/badge/Library-NumPy-013243)
-![pandas](https://img.shields.io/badge/Library-pandas-150458)
+  <!-- Core Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
-**🔧 Version Control**  
-![Git](https://img.shields.io/badge/Tool-Git-F05032)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-181717)
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 
-🗣 Communication
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-How to talk to strangers without being awkward 😅
+  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+
+  <!-- ML / Data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+</p>
+
 ---
 
-<!-- CONTACT SECTION -->
-📫 Reach me via:
-- [LinkedIn]-https://www.linkedin.com/in/adhiinsvy13
-- [Mail]-divyanshisahu496@gmail.com
+📫 **Reach me via**:
+- **LinkedIn**-[adhiinsvy13](https://www.linkedin.com/in/adhiinsvy13)
+- **Mail**-divyanshisahu496@gmail.com
 
 
-✨ Thanks for visiting my space! Let's build something awesome 💖
-
-<!---
-ADHIINSVY13/ADHIINSVY13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+✨ Thanks for stopping by!  
+If you’re reading this, you’re already curious too.
