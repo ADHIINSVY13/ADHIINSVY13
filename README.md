@@ -54,6 +54,9 @@ I have a knack for making strangers feel like old friends!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 </p>
 
+<a href="https://leetcode.com/u/ADHIINSVY13/">
+<img src="https://leetcard.jacoblin.cool/ADHIINSVY13" />
+</a>
 ---
 
 📫 **Reach me via**:
